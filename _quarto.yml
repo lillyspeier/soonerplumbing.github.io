@@ -13,11 +13,11 @@ website:
     # your sub-pages
     left:
       - text: "Plumbing"
-        href: plumbing/index.qmd
+        href: plumbing/index_plumbing.qmd
       - text: "About Dave"
-        href: personal/index.qmd
+        href: personal/index_about_dave.qmd
       - text: "Contact Me"
-        href: photos/index.qmd
+        href: photos/index_contact_me.qmd
     
     # your social media handles
     right:
