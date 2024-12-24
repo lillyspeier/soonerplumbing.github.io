@@ -15,9 +15,9 @@ website:
       - text: "Plumbing"
         href: plumbing/index_plumbing.qmd
       - text: "About Dave"
-        href: personal/index_about_dave.qmd
+        href: about_dave/index_about_dave.qmd
       - text: "Contact Me"
-        href: photos/index_contact_me.qmd
+        href: contact_me/index_contact_me.qmd
     
     # your social media handles
     right:
