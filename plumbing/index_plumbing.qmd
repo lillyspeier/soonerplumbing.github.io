@@ -2,4 +2,43 @@
 title: "Plumbing"
 ---
 
-Hi, I'm David Speier, master plumber and owner of Sooner Plumbing since June 2006. 
+Hi, I'm David Speier, master plumber and owner of Sooner Plumbing since June 2006. When it comes to commercial plumbing jobs, big and small, I've done it all. From malls to retail stores— Sooner Plumbing will get the job done to perfection. Below, I have included some companies and retailers who I have done work for, along with some photos from my previous work.
+
+# Photos From Previous Work
+
+::: {layout-ncol="3"}
+![](images/plumbing4.png)
+
+![](images/plumbing8.png)
+
+![](images/plumbing7.png)
+
+![](images/plumbing2.jpeg)
+
+![](images/plumbing3.jpeg)
+
+![](images/plumbing1.jpg)
+:::
+
+# Satisfied Companies & Retailers 
+
+::: {layout-ncol="3"}
+![](images/companies/dns.png)
+
+![](images/companies/AutoZone.png)
+
+![](images/companies/bath_and_body_works.png)
+
+![](images/companies/panda_express.png)
+
+![](images/companies/ulta.png)
+
+![](images/companies/twelve_oaks.png)
+
+![](images/companies/chesterfield.png)
+
+![](images/companies/rehab_phys.png)
+
+![](images/companies/Briarwood_Mall.png)
+
+:::
