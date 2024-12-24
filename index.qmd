@@ -1,0 +1,25 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "images/soonerplb.png"
+  image-shape: rectangle
+  image-width: "6 inches"
+  links:
+      - icon: telephone
+        href: "tel:+12483880284"
+      - icon: facebook
+        href: https://facebook.com/david.s.speier
+      - icon: envelope
+        aria-label: email
+        href: "mailto:soonerplb@yahoo.com"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+Hi, I'm David Speier, master plumber and owner of Sooner Plumbing since June 2006. Sooner Plumbing is a small business which has delivered premier quality plumbing work for commercial contractors across the Southeast Michigan area for nearly two decades. From large jobs like Twelve Oaks Mall, to smaller jobs like Ulta Beauty, I deliver a degree of excellence and attention to detail which is truly unparalleled. Contact Sooner Plumbing today for all of your plumbing and contracting needs!
+
+On this website, you can find more information and photos from some of my previous plumbing jobs using the "Plumbing" tab above. Additionally, I have included some photos from my personal life and hobbies under the tab labeled "About Dave." To contact me about jobs, feel free to [call](tel:+12483880284) or [email](mailto:soonerplb@yahoo.com) me today!

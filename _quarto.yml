@@ -1,0 +1,66 @@
+# website settings
+website:
+  title: "Sooner Plumbing"                            
+  image: images/soonerplb.png
+  
+  favicon: images/soonerplb.png
+  
+  # start of the navigation bar at the top of the website
+  navbar:
+    pinned: true
+    logo: /images/soonerplb.png
+    
+    # your sub-pages
+    left:
+      - text: "Plumbing"
+        href: plumbing/index.qmd
+      - text: "About Dave"
+        href: personal/index.qmd
+      - text: "Contact Me"
+        href: photos/index.qmd
+    
+    # your social media handles
+    right:
+      - icon: telephone
+        href: "tel:+12483880284"
+      - icon: facebook
+        href: https://facebook.com/david.s.speier
+      - icon: envelope
+        aria-label: email
+        href: "mailto:soonerplb@yahoo.com"  
+  
+# Don't touch unless you know what you are doing :) ------------
+  search: 
+    location: navbar
+    type: textbox
+  page-footer: 
+    left: |
+      <span class="faux-block">&#169; 2024 Sooner Plumbing Co.</span>
+    right: |
+      <span class="faux-block"><a href="https://github.com/lillyspeier/soonerplumbing.github.io/">View source code on GitHub</a></span>
+
+project:
+  type: website
+  output-dir: docs
+
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
+
+format:
+  html:
+    fontsize: 1.1em
+    theme: 
+      - pulse
+      - html/styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
