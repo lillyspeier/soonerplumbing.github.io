@@ -1,4 +1,30 @@
 ---
-title: "Personal"
+title: "About Dave"
 ---
 
+Hi, I'm David Speier. I single-handedly run Sooner Plumbing from Hartland, Michigan. Outside of work, I love spending time with my family, golfing, visiting my cabin, and fishing. Get to know me better through the pictures below!
+
+::: {layout-ncol="2"}
+![](images/family_pic.jpg)
+
+![](images/family2.jpeg)
+
+
+![](images/fish2.jpg)
+
+![](images/fish4.jpg)
+
+![](images/camping.jpg)
+
+![](images/cabin2.jpeg)
+
+![](images/polebarn1.jpg)
+
+![](images/polebarn2.jpg)
+
+![](images/golf.jpeg)
+
+
+![](images/triumph.jpg)
+
+:::
